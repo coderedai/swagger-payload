@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Rogue3244/swagger-payload/main/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Rogue3244/swagger-payload/main/swagger.yaml",
+            "name": "REFLECTED XSS BY ANMOL"
+        }
+    ]
+}
